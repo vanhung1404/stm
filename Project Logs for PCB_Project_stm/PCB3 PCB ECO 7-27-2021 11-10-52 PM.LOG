@@ -1,0 +1,21 @@
+Removed Member From Class: ClassName=Sheet4 Member=IC?
+Change Component Footprint: Designator=U Old Footprint=QFP80P900X900X120-32N New Footprint=SSOP28-0.65-10.2X5.2MM
+Change Component Comment : Designator=U Old Comment=ATMEGA168-20AU New Comment=INTERFACE-FT232RL(SSOP28)
+Change component parameters: Designator = "U" ("U"); Footprint = "QFP80P900X900X120-32N"; UniqueID = "\CCCXQHFC" ("\CCCXQHFC")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "FTDI, Future"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "FT232RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "SSOP-28 FTDI, Future"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/FT232RL/FTDI%2C%20Future%20Technology%20Devices%20International%20Ltd/view-part/1077088/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D(SOD-123)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MBR0520"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOD-123 International Rectifier"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MBR0520/ON%20Semiconductor/view-part/564242/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Sheet4 Member=Component D MBR0520
+Added Member To Class: ClassName=Sheet4 Member=Component U ATMEGA168-20AU

@@ -1,0 +1,50 @@
+Added Component: Designator=IC?(DIP40/W0.6)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu _Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH002200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "AT89C52-24PC DIP40"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetA?_0 Pin=A?-0
+Added Pin To Net: NetName=NetA?_0 Pin=IC?-37
+Added Net: Name=NetA?_0
+Added Pin To Net: NetName=NetA?_1 Pin=A?-1
+Added Pin To Net: NetName=NetA?_1 Pin=IC?-36
+Added Net: Name=NetA?_1
+Added Pin To Net: NetName=NetA?_2 Pin=A?-2
+Added Pin To Net: NetName=NetA?_2 Pin=IC?-35
+Added Net: Name=NetA?_2
+Added Pin To Net: NetName=NetA?_3 Pin=A?-3
+Added Pin To Net: NetName=NetA?_3 Pin=IC?-34
+Added Net: Name=NetA?_3
+Added Pin To Net: NetName=NetA?_4 Pin=A?-4
+Added Pin To Net: NetName=NetA?_4 Pin=IC?-33
+Added Net: Name=NetA?_4
+Added Pin To Net: NetName=NetA?_5 Pin=A?-5
+Added Pin To Net: NetName=NetA?_5 Pin=IC?-32
+Added Net: Name=NetA?_5
+Added Pin To Net: NetName=NetA?_7 Pin=A?-7
+Added Pin To Net: NetName=NetA?_7 Pin=IC?-21
+Added Net: Name=NetA?_7
+Added Pin To Net: NetName=NetA?_8 Pin=A?-8
+Added Pin To Net: NetName=NetA?_8 Pin=IC?-22
+Added Net: Name=NetA?_8
+Added Pin To Net: NetName=NetA?_9 Pin=A?-9
+Added Pin To Net: NetName=NetA?_9 Pin=IC?-23
+Added Net: Name=NetA?_9
+Added Pin To Net: NetName=NetA?_10 Pin=A?-10
+Added Pin To Net: NetName=NetA?_10 Pin=IC?-24
+Added Net: Name=NetA?_10
+Added Pin To Net: NetName=NetA?_11 Pin=A?-11
+Added Pin To Net: NetName=NetA?_11 Pin=IC?-25
+Added Net: Name=NetA?_11
+Added Pin To Net: NetName=NetA?_12 Pin=A?-12
+Added Pin To Net: NetName=NetA?_12 Pin=IC?-26
+Added Net: Name=NetA?_12
+Added Pin To Net: NetName=NetA?_13 Pin=A?-13
+Added Pin To Net: NetName=NetA?_13 Pin=IC?-27
+Added Net: Name=NetA?_13
+Added Pin To Net: NetName=NetA?_14 Pin=A?-14
+Added Pin To Net: NetName=NetA?_14 Pin=IC?-28
+Added Net: Name=NetA?_14
+Added Member To Class: ClassName=Sheet4 Member=Component IC? AT89C52

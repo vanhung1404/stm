@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=1 Pin=U-17
+Added Pin To Net: NetName=1 Pin=U-26
+Added Net: Name=1
+Added Member To Class: ClassName=Sheet4 Member=Component U INTERFACE-FT232RL(SSOP28)

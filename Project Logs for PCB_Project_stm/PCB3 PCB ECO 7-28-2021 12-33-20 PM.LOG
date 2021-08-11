@@ -1,0 +1,5 @@
+Change Component Designator: OldDesignator=D NewDesignator=X
+Added Pin To Net: NetName=NetU_11 Pin=U-11
+Added Pin To Net: NetName=NetU_11 Pin=X-2
+Added Net: Name=NetU_11
+Added Member To Class: ClassName=Sheet4 Member=Component U INTERFACE-FT232RL(SSOP28)

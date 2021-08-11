@@ -1,0 +1,112 @@
+Added Component: Designator=C?(tu 0805)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH004551"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "T? 0805 104-100nF 10% 50V"; VariantName = "[No Variations]"
+Added Component: Designator=C?(tu 0805)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH004551"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "T? 0805 104-100nF 10% 50V"; VariantName = "[No Variations]"
+Added Component: Designator=L?(LED-5MM-BLUE)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH008987"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Led 5MM Xanh Duong Ð?c (1000c)"; VariantName = "[No Variations]"
+Added Component: Designator=L?(LED-5MM-RED)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH008967"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Led 5MM Ph? Ð? (1000c)"; VariantName = "[No Variations]"
+Added Component: Designator=R?(tro smd 0805)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH005487"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Tr? 0805 1% 680R"; VariantName = "[No Variations]"
+Added Component: Designator=R?(tro smd 0805)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH005487"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Tr? 0805 1% 680R"; VariantName = "[No Variations]"
+Added Component: Designator=USB?(USB Mini 5p SMD)
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH001022"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten"; Value = "MiniUSB 5P SMD"; VariantName = "[No Variations]"
+Added Component: Designator=U(QFP80P900X900X120-32N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ATMEGA168-20AU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TQFP-32 Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ATMEGA168-20AU/Microchip/view-part/776709/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U(SSOP28-0.65-10.2X5.2MM)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "FTDI, Future"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "FT232RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SSOP-28 FTDI, Future"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/FT232RL/FTDI%2C%20Future%20Technology%20Devices%20International%20Ltd/view-part/1077088/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3.3 Pin=C?-2
+Added Pin To Net: NetName=+3.3 Pin=U-17
+Added Net: Name=+3.3
+Added Pin To Net: NetName=+5 Pin=L?-1
+Added Pin To Net: NetName=+5 Pin=L?-1
+Added Pin To Net: NetName=+5 Pin=U-4
+Added Pin To Net: NetName=+5 Pin=U-20
+Added Net: Name=+5
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=U-7
+Added Pin To Net: NetName=GND Pin=U-18
+Added Pin To Net: NetName=GND Pin=U-21
+Added Pin To Net: NetName=GND Pin=U-25
+Added Pin To Net: NetName=GND Pin=USB?-5
+Added Pin To Net: NetName=GND Pin=USB?-5
+Added Pin To Net: NetName=GND Pin=USB?-5
+Added Pin To Net: NetName=GND Pin=USB?-5
+Added Pin To Net: NetName=GND Pin=USB?-5
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=U-2
+Added Net: Name=NetC?_2
+Added Pin To Net: NetName=NetL?_2 Pin=L?-2
+Added Pin To Net: NetName=NetL?_2 Pin=R?-1
+Added Net: Name=NetL?_2
+Added Pin To Net: NetName=NetR?_2 Pin=R?-2
+Added Pin To Net: NetName=NetR?_2 Pin=U-22
+Added Net: Name=NetR?_2
+Added Pin To Net: NetName=NetU_15 Pin=U-15
+Added Pin To Net: NetName=NetU_15 Pin=USB?-3
+Added Net: Name=NetU_15
+Added Pin To Net: NetName=NetU_16 Pin=U-16
+Added Pin To Net: NetName=NetU_16 Pin=USB?-2
+Added Net: Name=NetU_16
+Added Pin To Net: NetName=RESET Pin=C?-1
+Added Net: Name=RESET
+Added Pin To Net: NetName=RX Pin=U-5
+Added Net: Name=RX
+Added Pin To Net: NetName=TX Pin=U-1
+Added Net: Name=TX
+Added Pin To Net: NetName=VUSB Pin=USB?-1
+Added Net: Name=VUSB
+Added Member To Class: ClassName=Sheet4 Member=Component C? 104
+Added Member To Class: ClassName=Sheet4 Member=Component C? 104
+Added Member To Class: ClassName=Sheet4 Member=Component L? LED 5mm
+Added Member To Class: ClassName=Sheet4 Member=Component L? LED 5mm
+Added Member To Class: ClassName=Sheet4 Member=Component R? 680R
+Added Member To Class: ClassName=Sheet4 Member=Component R? 680R
+Added Member To Class: ClassName=Sheet4 Member=Component USB? USB Mini 5p SMD
+Added Member To Class: ClassName=Sheet4 Member=Component U ATMEGA168-20AU
+Added Member To Class: ClassName=Sheet4 Member=Component U INTERFACE-FT232RL(SSOP28)
